@@ -1,0 +1,14 @@
+/* h1{
+  color: blur;
+  color: rgb(120,25,50);
+  color: #00ff00;
+} */
+
+body{
+  color: #333;
+  font-family: verdana, sans-serif;
+}
+
+header{
+  background-color: #efefef;
+}
